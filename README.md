@@ -34,4 +34,4 @@ To view this website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   https://github.com/Noorfatima-jamro/embroidery-website.git
